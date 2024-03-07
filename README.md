@@ -9,6 +9,7 @@ data and code for multiyear prediction
 * **project_utils**: python functions used in code
 * **figures**: placeholder directory for figure pdfs 
 * environment.yml - specifies python packages needed to run notebooks
+* environment_export.yml - specifies exact package versions used for analysis
 
 ## Data
 Data used in the analysis is publicly available from the following sources: 
