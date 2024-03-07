@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+envs/
+*.egg-info
+*.pdf
+*.png
+*.jpg
+*.nc
+*.h5
+working/_old
+processed_data/training/*
+input_data/*
+processed_data/_old
+_old/*
+docs/*
